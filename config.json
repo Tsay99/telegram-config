@@ -1,0 +1,12 @@
+{
+    "TELEGRAM_BOT_TOKEN": "7130225917:AAEAZcf1bWVnMs9C2raWLtetAGinH3POv_8",
+    "LOG_BOT_TOKEN": "7310553247:AAEwgdiNH-lwWv18yRNL-kbvRI034FExuvY",
+    "LOG_CHAT_ID": "696432096",
+    "TELEGRAM_CHAT_IDS": {
+        "Tsay": "696432096",
+        "Ayato": "1444614434",
+        "Zoro": "1767828778",
+        "Anhel": "810178592",
+        "Leon": "1207389254"
+    }
+}
